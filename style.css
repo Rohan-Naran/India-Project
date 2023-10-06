@@ -1,0 +1,38 @@
+#entrance{
+    position:absolute;
+    top:43%;
+    left:48.75%;
+    transform:translate(-50%, -50%);
+    background:none;
+    border:none;
+    font-style: italic;
+    font-family:'Dancing Script', cursive;
+    font-size:20px
+}
+#button_img{
+    width:275;
+    height:75;
+}
+.container{
+    position: relative;
+    text-align:center;
+    color:white;
+}
+#header{
+    font-family: 'Young Serif', serif;
+    background: linear-gradient(to right, rgb(146, 130, 38), gold);
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+#button_img2{
+    width:500;
+    height:75;
+}
+#pic1
+{
+    border-radius: 100%;
+    box-shadow: 10px 10px 10px 10px rgba(30, 92, 113, 0.423);
+}
+body{
+    background-image: linear-gradient(to top left, rgb(51, 120, 84), rgb(0, 255, 123));
+}
